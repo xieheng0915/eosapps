@@ -1,0 +1,3 @@
+/Users/xieheng/gitspace/engo/eosapps/cmakeprj/CMakeFiles/rebuild_cache.dir
+/Users/xieheng/gitspace/engo/eosapps/cmakeprj/CMakeFiles/edit_cache.dir
+/Users/xieheng/gitspace/engo/eosapps/cmakeprj/CMakeFiles/Tutorial.dir

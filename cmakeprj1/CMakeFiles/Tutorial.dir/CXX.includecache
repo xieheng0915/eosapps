@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xieheng/gitspace/engo/eosapps/cmakeprj1/TutorialConfig.h
+
+/Users/xieheng/gitspace/engo/eosapps/cmakeprj1/tutorial.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/Users/xieheng/gitspace/engo/eosapps/cmakeprj1/TutorialConfig.h
+

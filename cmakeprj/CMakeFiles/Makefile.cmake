@@ -13,6 +13,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/feature_tests.c"
   "CMakeFiles/feature_tests.cxx"
   "CMakeLists.txt"
+  "MathFunctions/CMakeLists.txt"
+  "TutorialConfig.h.in"
   "/usr/local/Cellar/cmake/3.11.2/share/cmake/Modules/CMakeCCompiler.cmake.in"
   "/usr/local/Cellar/cmake/3.11.2/share/cmake/Modules/CMakeCCompilerABI.c"
   "/usr/local/Cellar/cmake/3.11.2/share/cmake/Modules/CMakeCInformation.cmake"
@@ -114,10 +116,13 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/3.11.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.11.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.11.2/CMakeCXXCompiler.cmake"
+  "TutorialConfig.h"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "MathFunctions/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Tutorial.dir/DependInfo.cmake"
+  "MathFunctions/CMakeFiles/MathFunctions.dir/DependInfo.cmake"
   )

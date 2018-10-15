@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+/Users/xieheng/gitspace/engo/eosapps/cmakeprj/TutorialConfig.h
+
 /Users/xieheng/gitspace/engo/eosapps/cmakeprj/tutorial.cpp
 stdio.h
 -
@@ -13,4 +15,8 @@ stdlib.h
 -
 math.h
 -
+TutorialConfig.h
+/Users/xieheng/gitspace/engo/eosapps/cmakeprj/TutorialConfig.h
+MathFunctions.h
+/Users/xieheng/gitspace/engo/eosapps/cmakeprj/MathFunctions.h
 
